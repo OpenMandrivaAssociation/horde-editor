@@ -56,3 +56,16 @@ fi
 %{peardir}/Horde/Editor/fckeditor.php
 %{peardir}/Horde/Editor/tinymce.php
 %{peardir}/Horde/Editor/xinha.php
+
+
+%changelog
+* Mon Aug 02 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-2mdv2011.0
++ Revision: 564909
+- Increased release for rebuild
+
+* Sat Feb 20 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-1mdv2010.1
++ Revision: 508636
+- delete unneded dependency
+- import horde-editor
+
+
