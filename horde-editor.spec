@@ -5,7 +5,7 @@
 
 Name:		horde-editor
 Version:	0.0.2
-Release:	%mkrel 2
+Release:	3
 Summary:	Horde Browser package
 License:	LGPL
 Group:		Networking/Mail
